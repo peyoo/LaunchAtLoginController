@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name = 'NXAPNServiceProvider'
+    s.name = 'LaunchAtLoginController'
     s.version = '0.1'
     s.license = 'MIT'
     s.summary = 'LaunchAtLoginController'
